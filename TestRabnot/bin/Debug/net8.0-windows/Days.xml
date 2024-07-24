@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<queries>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>2</DayInMonth>
+    <Month>חשוון</Month>
+    <Year>תשפ"ד</Year>
+    <res>באחד בשבת שני ימים לירח חשוון בשנת חמשת אלפים ושבע מאות ושמנים וארבע </res>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>4</DayInMonth>
+    <Month>חשוון</Month>
+    <Year>תשפ"ו</Year>
+    <res>באחד בשבת ארבעה ימים לירח חשוון בשנת חמשת אלפים ושבע מאות ושמנים ושישה </res>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>30</DayInMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <res>באחד בשבת שלושים ימים לירח לחודש תשרי הוא חודש חשוון בשנת חמשת אלפים ושבע מאות ושמנים וחמישה </res>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>14</DayInMonth>
+    <Month>תשרי</Month>
+    <Year>תשפ"ה</Year>
+    <res>באחד בשבת ארבעה עשר ימים לירח תשרי בשנת חמשת אלפים ושבע מאות ושמנים וחמישה </res>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>14</DayInMonth>
+    <Month>אדר א</Month>
+    <Year>תשפ"ה</Year>
+    <res>באחד בשבת ארבעה עשר ימים לירח אדר א בשנת חמשת אלפים ושבע מאות ושמנים וחמישה </res>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayInMonth>6</DayInMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ו</Year>
+    <res>בשני בשבת שישה ימים לירח שבט בשנת חמשת אלפים ושבע מאות ושמנים ושישה </res>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayInMonth>6</DayInMonth>
+    <Month>טבת</Month>
+    <Year>תשפ"ו</Year>
+    <res>באחד בשבת שישה ימים לירח טבת בשנת חמשת אלפים ושבע מאות ושמנים ושישה </res>
+  </Query>
+  <Query>
+    <Day>שלישי</Day>
+    <DayInMonth>9</DayInMonth>
+    <Month>כסליו</Month>
+    <Year>תשפ"ו</Year>
+    <res>בשלישי בשבת תשעה ימים לירח כסליו בשנת חמשת אלפים ושבע מאות ושמנים ושישה </res>
+  </Query>
+</queries>

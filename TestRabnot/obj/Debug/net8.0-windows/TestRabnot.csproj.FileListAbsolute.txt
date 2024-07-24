@@ -1,0 +1,16 @@
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\bin\Debug\net8.0-windows\TestRabnot.exe
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\bin\Debug\net8.0-windows\TestRabnot.deps.json
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\bin\Debug\net8.0-windows\TestRabnot.runtimeconfig.json
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\bin\Debug\net8.0-windows\TestRabnot.dll
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\bin\Debug\net8.0-windows\TestRabnot.pdb
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.Form1.resources
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.csproj.GenerateResource.cache
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.AssemblyInfoInputs.cache
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.AssemblyInfo.cs
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.csproj.CoreCompileInputs.cache
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.dll
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\refint\TestRabnot.dll
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.pdb
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\TestRabnot.genruntimeconfig.cache
+C:\Users\menac\source\repos\TestRabnot\TestRabnot\obj\Debug\net8.0-windows\ref\TestRabnot.dll

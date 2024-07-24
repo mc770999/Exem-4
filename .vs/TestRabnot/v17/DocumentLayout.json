@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\menac\\source\\repos\\TestRabnot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\service\\allfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\service\\allfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\model\\querymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\model\\querymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|c:\\users\\menac\\source\\repos\\testrabnot\\testrabnot\\model\\qyeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A879FC-8524-4ADB-9299-E77FCF06F3D5}|TestRabnot\\TestRabnot.csproj|solutionrelative:testrabnot\\model\\qyeryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QyeryService.cs",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Model\\QyeryService.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Model\\QyeryService.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Model\\QyeryService.cs",
+              "RelativeToolTip": "TestRabnot\\Model\\QyeryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:03:05.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueryModel.cs",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Model\\QueryModel.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Model\\QueryModel.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Model\\QueryModel.cs",
+              "RelativeToolTip": "TestRabnot\\Model\\QueryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T08:58:58.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.Designer.cs",
+              "RelativeToolTip": "TestRabnot\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:25:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Form1.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.cs",
+              "RelativeToolTip": "TestRabnot\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:00:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllFunction.cs",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Service\\AllFunction.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Service\\AllFunction.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Service\\AllFunction.cs",
+              "RelativeToolTip": "TestRabnot\\Service\\AllFunction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:57:33.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.cs",
+              "RelativeDocumentMoniker": "TestRabnot\\Form1.cs",
+              "ToolTip": "C:\\Users\\menac\\source\\repos\\TestRabnot\\TestRabnot\\Form1.cs [Design]",
+              "RelativeToolTip": "TestRabnot\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:55:03.119Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
